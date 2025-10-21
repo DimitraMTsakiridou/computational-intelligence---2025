@@ -1,0 +1,6 @@
+----------------
+Best TSK Model for radius = 0.5 and features = 20
+RMSE = 13.7667
+NMSE = 0.1563
+NDEI = 0.3953
+R^2 = 0.8437

@@ -1,0 +1,17 @@
+SATELLITE ATTITUDE CONTROL SIMULATION RESULTS
+Simulation Date: 2025-09-05_07-08-23
+
+LINEAR PI CONTROLLER:
+Overshoot: 1.21%
+Rise Time: 0.71 sec
+Settling Time: 1.12 sec
+Kp = 20.00, Ki = 22.00
+
+FUZZY CONTROLLER:
+Overshoot: 7.36%
+Rise Time: 4.82 sec
+Settling Time: 6.60 sec
+Ke = 0.15, Kde = 0.03, Ki = 1.50
+
+RAMP RESPONSE:
+Tracking Error: 11.5379 degrees

@@ -1,0 +1,28 @@
+
+--------------------------------
+Performance of Model 1:
+Root Mean Squared Error: 3.6308
+Normalized Mean Squared Error: 0.2994
+Non-Dimensional Error Index: 0.5472
+R-squared Coefficient: 0.7006
+
+--------------------------------
+Performance of Model 2:
+Root Mean Squared Error: 3.3008
+Normalized Mean Squared Error: 0.2474
+Non-Dimensional Error Index: 0.4974
+R-squared Coefficient: 0.7526
+
+--------------------------------
+Performance of Model 3:
+Root Mean Squared Error: 2.5367
+Normalized Mean Squared Error: 0.1461
+Non-Dimensional Error Index: 0.3823
+R-squared Coefficient: 0.8539
+
+--------------------------------
+Performance of Model 4:
+Root Mean Squared Error: 2.2475
+Normalized Mean Squared Error: 0.1147
+Non-Dimensional Error Index: 0.3387
+R-squared Coefficient: 0.8853
